@@ -100,7 +100,7 @@ celerybeat-schedule
 .env
 .venv
 env/
-venv/
+/venv
 ENV/
 env.bak/
 venv.bak/
@@ -118,3 +118,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+static/
